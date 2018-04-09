@@ -1,0 +1,32 @@
+title: AutomatedLab
+description: >- # this means to ignore newlines until "baseurl:"
+  AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts.
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "https://automatedlab.org" # the base hostname & protocol for your site, e.g. http://example.com
+repository: AutomatedLab/AutomatedLab
+authors:
+  raandree:
+    name: Raimund Andrée
+    display_name: Raimund
+    web: https://github.com/AutomatedLab
+    twitter: raandree
+    github: raandree
+  japete:
+    name: Jan-Hendrik Peters
+    display_name: JHP
+    twitter: nyanhp
+    web: https://github.com/AutomatedLab
+    github: nyanhp
+
+github:
+  tar_url: https://github.com/AutomatedLab/AutomatedLab/tarball/master
+  zip_url: https://github.com/AutomatedLab/AutomatedLab/zipball/master
+show_downloads: true
+defaults:
+    values:
+      layout: default
+markdown: kramdown
+theme: jekyll-theme-leap-day
+plugins:
+  - jekyll-feed
+  - jekyll-github-metadata
