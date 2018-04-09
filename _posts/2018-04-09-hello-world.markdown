@@ -2,6 +2,7 @@
 title:  "Hello, world"
 date:   2018-04-09 12:34:26 +0200
 layout: post
+author: japete
 ---
 A warm welcome from the AutomatedLab team!
 
